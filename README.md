@@ -1,9 +1,14 @@
 # Sentiment-Analysis
+Final Project of the course Python Functions, Files, and Dictionaries. This course is part of the Python 3 Programming Specialization offer by University of Michigan in Coursera. You can find more information at https://www.coursera.org/learn/python-functions-files-dictionaries/
 - This repo covers making of a sentiment classifier in PYTHON.
 - A .csv file containing text of tweets,number of retweets,number of replies is provided.
 - Words that express positive sentiment and negative sentiment, in the files positive_words.txt and negative_words.txt have been provided.
 - Task is to build a sentiment classifier, which will detect how positive or negative each tweet is.
 - For detailed description of the mini prject read **problem_statement.txt**
+
+## Functions
+1. strip_punctuation(word):
+   which takes one parameter, a string which represents a word, and removes characters considered punctuation from everywhere in the word.
 
 ## Inspiraion 
 - This mini project is inspired by : 
