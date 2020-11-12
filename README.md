@@ -7,7 +7,7 @@ Final Project of the course Python Functions, Files, and Dictionaries. This cour
 - For detailed description of the mini prject read **problem_statement.txt**
 
 ## Functions
-1. strip_punctuation(word):
+1. strip_punctuation(word):  
    which takes one parameter, a string which represents a word, and removes characters considered punctuation from everywhere in the word.
 
 ## Inspiraion 
