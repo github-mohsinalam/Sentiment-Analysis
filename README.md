@@ -8,8 +8,13 @@ Final Project of the course Python Functions, Files, and Dictionaries. This cour
 
 ## Functions
 1. **strip_punctuation(word):**  
-   which takes one parameter, a string which represents a word, and removes characters considered punctuation from everywhere in the word.
-
+   which takes one parameter, a string which represents a word, and removes characters considered punctuation from everywhere in the word.   
+ 
+2. **get_pos(sentence) :**   
+    which takes one parameter, a string which represents one or more sentences, and calculates how many words in the string are considered positive words.   
+    Use the list, positive_words to determine what words will count as positive. The function should return a positive integer-  
+    how many occurrences there are of positive words in the text.
+3. 
 ## Inspiraion 
 - This mini project is inspired by : 
 #### Minqing Hu and Bing Liu. "Mining and Summarizing Customer Reviews."
