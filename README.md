@@ -3,6 +3,7 @@
 - A .csv file containing text of tweets,number of retweets,number of replies is provided.
 - Words that express positive sentiment and negative sentiment, in the files positive_words.txt and negative_words.txt have been provided.
 - Task is to build a sentiment classifier, which will detect how positive or negative each tweet is.
+- For detailed description of the mini prject read **problem_statement.tx**
 
 ## Inspiraion 
 - This mini project is inspired by : 
